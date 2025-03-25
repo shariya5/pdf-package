@@ -1,0 +1,17 @@
+{
+    "name": "shariya/pdf-package",
+    "description": "A simple laravel pdf generator package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Shariya\\PdfPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "shariya"
+        }
+    ],
+    "require": {}
+}
